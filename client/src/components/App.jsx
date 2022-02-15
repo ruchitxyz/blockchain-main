@@ -9,7 +9,7 @@ import Welcome from "./Welcome";
 function App() {
   return (
     <div className="App">
-      <div>
+      <div className="gradient-bg-welcome">
         <Navbar />
         <Welcome />
       </div>
